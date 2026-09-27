@@ -1,0 +1,230 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../imagenes/fondoHeader.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+body{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color: black;
+    background-size: cover;
+}
+h1{
+  color: #ffffff;
+  margin-top: 25px;
+  text-align: center;
+}
+span{
+    color: aliceblue;
+}
+nav {
+  display: flex;
+  justify-content: center; 
+  gap: 20px;               
+  margin: 20px 0;   
+}
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 18px;
+}
+nav a:hover {
+  text-decoration: underline;
+  color: #00adb5;
+}
+p{
+    font-size: 20px;
+    color: cyan;
+    margin: 100px 100px;
+    text-align: center;
+}
+#autobiografia{
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+}
+#experiencias{
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+}
+#experiencias p img{
+width: 700px;
+height: auto;
+margin-top: 20px;
+position: relative;
+max-width: 100%;
+height: auto;
+}
+#estudios{
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+}
+#logros{
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+}
+#logros h3{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40px;
+}
+.resatado1{
+    color: chartreuse;
+}
+.resatado2{
+    color: chartreuse;
+}
+.resatado3{
+    color: chartreuse;
+}
+#contacto{
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+}
+.tablaContacto{
+    width: 100%;
+    max-width: 800px;
+    margin: 25px auto;
+    background-color: rgb(19, 179, 179);
+    color: #ffffff;
+    border: 1px solid cyan;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.tablaContacto th{
+    background-color: #00adb5;
+    color: #000000;
+  padding: 12px;
+  text-align: left;
+  font-size: 16px;
+}
+.tablaContacto td {
+  padding: 12px;
+  border-bottom: 1px solid #222222;
+  color: cyan;
+  background-color: #000000;
+  font-size: 15px;
+}
+.tablaContacto tbody tr:hover {
+  background-color: cyan;
+}
+.resatado4{
+    color: red;
+    text-decoration: underline;
+}
+.resatado5{
+    color: violet;
+    text-decoration: underline;
+}
+.resatado6{
+    color: chartreuse;
+}
+.resatado7{
+    color: red;
+}
+.resatado8{
+    color: chartreuse;
+}
+.resatado9{
+    color: green;
+}
+.resatado10{
+    color: chartreuse;
+}
+.resatado11{
+    color: blue;
+}.resatado12{
+    color: chartreuse;
+}
+.resatado13{
+    color: cornflowerblue;
+}
+.resatado14{
+    color: blueviolet;
+}
+.resatado15{
+    color: darkcyan;
+}
+.resatado16{
+    color: purple;
+    text-decoration: underline;
+}
+.resatado17{
+    color: green;
+}
+.resatado18{
+    color: chartreuse;
+}
+.resatado19{
+    color: red;
+}
+.resatado20{
+    color: blueviolet;
+}
+.resatado21{
+    color: grey;
+}
+.resatado22{
+    color: rgb(6, 145, 66);
+}
+.resatado23{
+    color: blue;
+}
+.resatado24{
+    color: crimson;
+    text-decoration: underline;
+}
+.resatado25{
+    color: chartreuse;
+}
+.resatado26{
+    color: chocolate;
+}
+.resatado27{
+    color: rgb(28, 167, 28);
+}
+.resatado28{
+    color: red;
+    text-decoration: underline;
+}
+.resatado29{
+    color: rgb(172, 193, 12);
+}
+.resatado30{
+    color: gray;
+}
+.resatado31{
+    color: rgb(178, 35, 35);
+}
+.resatado32{
+    color: rgb(79, 79, 179);
+}
+.resatado33{
+    color: rgb(201, 25, 178);
+}
+.resatado34{
+    color: chartreuse;
+}
+.resatado35{
+    color: rgb(173, 26, 173);
+    text-decoration: underline;
+}
+.resatado36{
+    color: red;
+}
